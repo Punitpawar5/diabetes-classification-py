@@ -10,8 +10,8 @@ The dataset consists of 8 features including `Pregnancies`, `Glucose`, `BloodPre
 We used a Random Forest Classifier, which provided a good balance between interpretability and performance. 
 
 ## Model Performance
-- **Accuracy**: Achieved an accuracy of X% on the test set.
-- **Confusion Matrix**: The confusion matrix shows that the model correctly predicted X true positives and Y true negatives.
+- **Accuracy**: Achieved an accuracy of 72% on the test set.
+- **Confusion Matrix**: The confusion matrix shows that the model correctly predicted 77 true positives and 34 true negatives.
 - **Classification Report**: The report indicates precision, recall, and F1 score for both classes.
 
 ## Conclusion
